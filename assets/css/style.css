@@ -277,7 +277,7 @@ main {
 }
 
 .tbp_primary_btn:hover {
-  opacity: 0.9;
+  background: var(--black-color);
 }
 
 @media (max-width: 1600px) {
@@ -825,7 +825,7 @@ main {
 }
 
 .tbp_faq_wrapper .tbp_faq_explore_btn:hover {
-  opacity: 0.9;
+  background: var(--primary-color);
 }
 
 @media (max-width: 1199.98px) {
